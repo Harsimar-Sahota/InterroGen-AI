@@ -42,3 +42,7 @@ coverage-*
 
 # npm cache
 .npm
+
+# Uploaded files (keep folder, ignore files)
+backend/uploads/*
+!backend/uploads/.gitkeep
