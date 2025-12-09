@@ -1,0 +1,44 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+
+# Build
+dist/
+build/
+.vite
+.vscode/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Tests outputs
+test-results/
+coverage/
+coverage-*
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# npm cache
+.npm
