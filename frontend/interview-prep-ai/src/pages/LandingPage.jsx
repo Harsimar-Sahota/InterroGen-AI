@@ -140,7 +140,7 @@ const LandingPage = () => {
         </div>
 
         <div className="text-sm bg-gray-50 text-secondary text-center p-5 mt-5">
-          Made with ❤️ By Harsimar
+          © 2025 InterroGen AI • Built by Harsimar
         </div>
       </div>
 
