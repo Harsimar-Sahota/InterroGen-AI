@@ -222,7 +222,12 @@ This project follows standard backend security practices:
 - No credentials committed to the repository
 
 ---
+## 💡 Inspiration
 
+Inspired by **Y Combinator’s RFS** (Request for Startups) focusing on **Vertical SaaS and AI tools for real-world workflows**.
+
+This project aligns with the idea of building practical, focused AI products that help users solve real problems efficiently rather than generic, one-size-fits-all solutions.
+---
 ## 👨‍💻 Author
 
 Harsimar Preet Singh Sahota  
