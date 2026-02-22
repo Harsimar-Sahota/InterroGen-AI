@@ -235,7 +235,7 @@ Full-Stack Developer — MERN + AI
 
 GitHub: https://github.com/Harsimar-Sahota  
 LinkedIn: https://linkedin.com/in/Harsimar-Sahota  
-#This project is undder construction, it will be updated soon.
+#This project is under construction, it will be updated soon.
 ---
 
 ## 🪪 License
