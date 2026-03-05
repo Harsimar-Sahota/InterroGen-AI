@@ -33,16 +33,6 @@ Password: demo123
 
 ---
 
-## 🖼️ Screenshots
-
-(to be added soon!!!)
-
-- Landing Page  
-- Dashboard (Sessions Overview)  
-- Interview Q&A View  
-- AI Concept Explanation Panel  
-
----
 
 ## 🧠 Problem This Project Solves
 
@@ -235,7 +225,6 @@ Full-Stack Developer — MERN + AI
 
 GitHub: https://github.com/Harsimar-Sahota  
 LinkedIn: https://linkedin.com/in/Harsimar-Sahota  
-#This project is under construction, it will be updated soon.
 ---
 
 ## 🪪 License
